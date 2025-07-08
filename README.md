@@ -3,7 +3,7 @@
 🌱 I’m currently learning many tools  
 💬 I write different codes  
 🎓 I have a degree in Web Development and I am currently studying Software Engineering  
-💻 I have 1 year of experience developing systems and websites  
+💻 I have 1+ year of experience developing systems and websites  
 ⚡ Fast and cognitive  
 
 
