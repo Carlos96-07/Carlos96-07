@@ -4,6 +4,7 @@
 
 🎓 I have a degree in Web Development and I am currently studying Software Engineering.  
 💻 I have 1+ year of experience developing systems and websites.
+
 ⚡ Fast and cognitive.  
 
 
