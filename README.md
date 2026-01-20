@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development  
-🌱 I’m currently learning many tools  
-💬 I write different codes  
-🎓 I have a degree in Web Development and I am currently studying Software Engineering  
-💻 I have 1+ year of experience developing systems and websites  
-⚡ Fast and cognitive  
+🔭 I’m currently working on Full Stack Development.  
+💬 I write code guided by solid architectural principles, ensuring scalability, maintainability, and long-term system sustainability. 
+🎓 I have a degree in Web Development and I am currently studying Software Engineering.  
+💻 I have 1+ year of experience developing systems and websites.
+⚡ Fast and cognitive.  
 
 
 # 💻 Tech Stack:
