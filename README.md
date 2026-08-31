@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Full Stack Development.  
 💬 I write code guided by solid architectural principles, ensuring scalability, maintainability, and long-term system sustainability. 
 
